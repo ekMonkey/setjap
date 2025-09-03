@@ -28,9 +28,9 @@ long_line_column=72
 
 [files]
 current_page=0
-FILE_NAME_0=386;C;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Fmain.c;0;4
-FILE_NAME_1=137;C;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Fjapcode.c;0;4
-FILE_NAME_2=117;C++;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Fjapcode.h;0;4
+FILE_NAME_0=416;C;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Fmain.c;0;4
+FILE_NAME_1=117;C++;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Fjapcode.h;0;4
+FILE_NAME_2=137;C;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Fjapcode.c;0;4
 
 [VTE]
 last_dir=/home/ekmonkey

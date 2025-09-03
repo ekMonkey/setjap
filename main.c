@@ -16,9 +16,14 @@ int main (int argc, char *argv[]) {
 		exit (EXIT_FAILURE);
 	}
 	
-	// Open destination file
+	// Open destination file and check it's existance
 	
 	destFile = fopen(argv[1], "r+b");
+	
+	if (destFile == NULL) {
+		perror("Failed");
+		exit (EXIT_FAILURE);
+	}
 	
 	// Write 11760 byte patch to destination file
 	japCode = getJapCode ();
