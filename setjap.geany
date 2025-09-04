@@ -20,7 +20,8 @@ indent_mode=2
 [project]
 name=setjap
 base_path=/home/ekmonkey/Sources/c/setjap
-description=
+description=Change the boot region (this is not a display fix) of PSX game to NTSC/J
+file_patterns=
 
 [long line marker]
 long_line_behaviour=1
@@ -28,9 +29,11 @@ long_line_column=72
 
 [files]
 current_page=0
-FILE_NAME_0=416;C;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Fmain.c;0;4
-FILE_NAME_1=117;C++;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Fjapcode.h;0;4
-FILE_NAME_2=137;C;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Fjapcode.c;0;4
+FILE_NAME_0=1504;C;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Fmain.c;0;4
+FILE_NAME_1=72696;C;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Fregions%2Feucode.c;0;4
+FILE_NAME_2=138;C;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Fregions%2Fuscode.c;0;4
+FILE_NAME_3=0;C++;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Finclude%2Fregion.h;0;4
+FILE_NAME_4=139;C;0;EUTF-8;1;1;0;%2Fhome%2Fekmonkey%2FSources%2Fc%2Fsetjap%2Fregions%2Fjapcode.c;0;4
 
 [VTE]
 last_dir=/home/ekmonkey
